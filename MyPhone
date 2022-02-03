@@ -14,7 +14,7 @@ class IPhone extends SmartPhone{
     boolean facetime;
 }
 
-public class Discussion2_1{
+public class MyPhone{
     public static void main(String[] args){
         IPhone myPhone = new IPhone(); //new iphone object
 
