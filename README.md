@@ -1,4 +1,4 @@
-# COP3330
+# OOP
 
 This is a repo made for my Object Oriented Programming class.
 all discussion posts and projects from the semester will be uploaded here.
